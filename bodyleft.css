@@ -1,0 +1,17 @@
+.bodyleft{
+    justify-content: space-between;
+    overflow:-moz-hidden-unscrollable;
+    border-right: 1px solid lightgrey;
+    width:300px;
+    flex:1;
+    background-color: white;
+    place-items: center;
+    
+
+}
+button{
+    margin-bottom: 200px;
+    margin-top: 35px;
+    margin-left: 80px;
+    padding:3px 10px;
+}
